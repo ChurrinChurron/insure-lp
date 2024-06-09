@@ -1,0 +1,5 @@
+.navMob {
+    background: url("../../assets/bg-pattern-mobile-nav.svg") no-repeat, #2b282f;
+    background-size: contain;
+    background-position: 100% 90%;
+}

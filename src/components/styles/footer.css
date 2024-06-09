@@ -1,0 +1,15 @@
+footer {
+    background-image: url("../../assets/bg-pattern-footer-mobile.svg"); 
+    background-repeat: no-repeat;
+    background-size: 105% 15%;
+    background-position: top;
+}
+
+@media screen and (width >= 768px) {
+    footer {
+        background-image: url("../../assets/bg-pattern-footer-desktop.svg"); 
+        background-repeat: no-repeat;
+        background-size: 30em 15em;
+        background-position: top left;
+    }
+}

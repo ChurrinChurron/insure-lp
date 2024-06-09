@@ -1,0 +1,9 @@
+.bgHeader {
+    background: url("../../assets/bg-pattern-intro-left-mobile.svg") no-repeat;
+}
+
+@media screen and (width >= 768px) {
+    .bgHeader  {
+        background: none;
+    }
+}

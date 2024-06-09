@@ -1,0 +1,12 @@
+.find {
+    background-image: url("../../assets/bg-pattern-how-we-work-mobile.svg");
+    background-repeat: no-repeat;
+    background-position: top right; 
+}
+
+@media screen and (width >= 768px) {
+    .find {
+        background-image: url("../../assets/bg-pattern-how-we-work-desktop.svg"); 
+        background-repeat: no-repeat;
+    }
+}
